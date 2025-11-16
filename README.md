@@ -1,4 +1,4 @@
-# 🍬 Sweet Shop Management System
+<img width="979" height="614" alt="image" src="https://github.com/user-attachments/assets/506b8c73-63e5-4013-9b68-e5229ce58cb8" /># 🍬 Sweet Shop Management System
 
 A full-stack, test-driven Sweet Shop Management System built with **Node.js, Express, PostgreSQL, React, Tailwind CSS**, Docker, and JWT authentication — following industry-standard clean coding practices, modern UI design, and TDD workflow.
 
@@ -115,7 +115,7 @@ Host: localhost
 Port: 5433
 DB: sweetdb
 
-▶ Running the Backend
+# ▶ Running the Backend
 cd backend
 npm install
 npm run dev
@@ -125,7 +125,7 @@ Runs at:
 
 http://localhost:4000
 
-🎨 Running the Frontend
+# 🎨 Running the Frontend
 cd frontend
 npm install
 npm run dev
@@ -169,6 +169,9 @@ POST	/api/sweets/:id/restock	Restock (Admin only)
 /api/sweets/search?minPrice=50&maxPrice=150
 
 📸 Screenshots (Add after capturing)
+<img width="978" height="613" alt="image" src="https://github.com/user-attachments/assets/dfafa171-b390-44db-b1bc-16f401a89776" />
+
+
 /screenshots/homepage.png  
 /screenshots/admin-dashboard.png  
 /screenshots/login.png  
