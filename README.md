@@ -171,6 +171,10 @@ POST	/api/sweets/:id/restock	Restock (Admin only)
 📸 Screenshots 
 <img width="978" height="613" alt="image" src="https://github.com/user-attachments/assets/dfafa171-b390-44db-b1bc-16f401a89776" />
 
+
+Video Submission:
+https://drive.google.com/file/d/15Pal_qkK5go6D9EtkMP7i798E6CMdxUV/view?usp=sharing
+
 Video-Submission
 🤖 My AI Usage (Mandatory Section)
 
