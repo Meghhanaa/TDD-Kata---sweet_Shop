@@ -1,4 +1,4 @@
-<img width="979" height="614" alt="image" src="https://github.com/user-attachments/assets/506b8c73-63e5-4013-9b68-e5229ce58cb8" /># 🍬 Sweet Shop Management System
+# 🍬 Sweet Shop Management System
 
 A full-stack, test-driven Sweet Shop Management System built with **Node.js, Express, PostgreSQL, React, Tailwind CSS**, Docker, and JWT authentication — following industry-standard clean coding practices, modern UI design, and TDD workflow.
 
@@ -168,21 +168,14 @@ POST	/api/sweets/:id/restock	Restock (Admin only)
 /api/sweets/search?category=Milk
 /api/sweets/search?minPrice=50&maxPrice=150
 
-📸 Screenshots (Add after capturing)
+📸 Screenshots 
 <img width="978" height="613" alt="image" src="https://github.com/user-attachments/assets/dfafa171-b390-44db-b1bc-16f401a89776" />
 
-
-/screenshots/homepage.png  
-/screenshots/admin-dashboard.png  
-/screenshots/login.png  
-/screenshots/cart.png  
-/screenshots/tests.png  
-
+Video-Submission
 🤖 My AI Usage (Mandatory Section)
 
 I used AI tools responsibly to enhance development and maintain code quality, while ensuring all architecture, debugging, and decisions were made by me.
 
-Tools Used
 
 ChatGPT (GPT-5.1)
 
