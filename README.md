@@ -223,8 +223,8 @@ Logic Clean-up: Streamlining the core dashboard logic.
 Test Maintenance: Ensuring test mocks are stable and maintainable.
 
 
-Video-Submission
-🤖 My AI Usage (Mandatory Section)
+
+## 🤖 My AI Usage (Mandatory Section)
 
 I used AI tools responsibly to enhance development and maintain code quality, while ensuring all architecture, debugging, and decisions were made by me.
 
@@ -233,66 +233,43 @@ ChatGPT (GPT-5.1)
 
 GitHub Copilot
 
-How I used AI
+### How I used AI !
 
 Generating boilerplate for Express routes
-
 Generating unit tests (Jest + Supertest)
-
 Debugging SQL + foreign key errors
-
 Designing Tailwind-based UI components
-
 Improving admin dashboard layout
-
 Creating README.md content
-
 Suggesting TDD patterns and code cleanup
-
 Reflection
 
-AI significantly improved:
+### AI significantly improved:
 
 Development speed
-
 Test coverage
-
 UI quality
-
 Error resolution
-
 Documentation clarity
-
 All final logic, integration, and debugging were done manually by me.
 
-🧹 Clean Code Practices
+
+## 🧹 Clean Code Practices
 
 This project follows:
-
 ✔ SOLID principles
-
 ✔ Modular folder structure
-
 ✔ Meaningful variable naming
-
 ✔ Stateless components
-
 ✔ Proper error handling
-
 ✔ Separation of concerns
-
 ✔ Centralized database layer
-
 ✔ Reusable UI components
 
-🧭 Git Workflow (As Required)
+## 🧭 Git Workflow (As Required)
 
 Each commit is descriptive and meaningful.
-
 AI-involved commits include:
-
-Co-authored-by: ChatGPT <chatgpt@openai.com>
-
 
 Example commit:
 
@@ -302,9 +279,7 @@ Used ChatGPT to generate query builder logic
 
 Co-authored-by: ChatGPT <chatgpt@openai.com>"
 
-🌐 Deployment (Optional)
-
-Recommended platforms:
+# Recommended platforms:
 
 Frontend:
 
@@ -341,5 +316,8 @@ This project fulfills all assignment requirements:
 ✔ Clean Code
 ✔ AI Usage Section
 ✔ Complete README
+
+
+# DEVELOPED BY: MEGHANA TAMRAKAR, MANIT BHOPAL
 
 
