@@ -175,6 +175,54 @@ POST	/api/sweets/:id/restock	Restock (Admin only)
 Video Submission:
 https://drive.google.com/file/d/15Pal_qkK5go6D9EtkMP7i798E6CMdxUV/view?usp=sharing
 
+
+🧪 Test-Driven Development (TDD)
+
+# This project was built strictly using TDD:
+
+## This project followed a rigorous Test-Driven Development (TDD) workflow, cycling through the core phases for robust implementation:
+
+### 1. 🔴 RED: Define Requirements with Failing Tests
+
+We began by writing comprehensive, failing unit and integration tests for all major components and functionalities, including:
+
+
+
+Core Feature Tests: Dashboard, Purchase, Search, Delete, Restock, and Add/Edit Sweet logic.
+
+Authentication & User Flow: AuthContext, AuthGuard, Login, and Registration.
+
+### 2. 🟢 GREEN: Minimal Implementation to Pass Tests
+
+The implementation phase focused strictly on writing the minimum amount of production code required to make the failing tests pass. This involved:
+
+
+
+Building UI components.
+
+Implementing API requests and data fetching logic.
+
+Developing Context logic and state management.
+
+Handling all buttons and state updates.
+
+### 3. 🔵 REFACTOR: Code Cleanup and Optimization
+
+Finally, the code was cleaned and optimized without introducing new functionality, ensuring all tests remained green. Key refactoring tasks included:
+
+
+
+Extraction: Separating and extracting the AuthGuard component for reusability.
+
+Simplification: Removing unnecessary checks and redundant code.
+
+Clarity: Improving overall code readability.
+
+Logic Clean-up: Streamlining the core dashboard logic.
+
+Test Maintenance: Ensuring test mocks are stable and maintainable.
+
+
 Video-Submission
 🤖 My AI Usage (Mandatory Section)
 
